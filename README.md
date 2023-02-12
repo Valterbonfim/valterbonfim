@@ -5,4 +5,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valterbonfim/)](https://www.linkedin.com/in/valter-bonfim-071b64142///)
 
 ### About me
-I'm a student of WEB development {HTML, CSS and JAVASCRIPT} ,cursando nivel superior  de Engenharia de SoftwARE .
+I'm a student of WEB development {HTML, CSS and JAVASCRIPT} ,cursando nivel superior  em Engenharia de Software.
